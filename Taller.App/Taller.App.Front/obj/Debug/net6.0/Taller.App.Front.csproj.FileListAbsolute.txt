@@ -1,0 +1,52 @@
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dicvy\OneDrive\Documentos\B1M4NC0\PROGRAMING\PROJECT\WEB SITES\taller-mecanico\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.staticwebassets.runtime.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.exe
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.deps.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.runtimeconfig.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.dll
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\bin\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\bundle\Taller.App.Front.styles.css
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\scopedcss\projectbundle\Taller.App.Front.bundle.scp.css
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.dll
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\refint\Taller.App.Front.dll
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.pdb
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\Taller.App.Front.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\obj\Debug\net6.0\ref\Taller.App.Front.dll

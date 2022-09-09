@@ -1,0 +1,69 @@
+﻿@page
+@model Taller.App.Front.Pages.RegisterModel
+@{   
+    ViewData["Title"] = "REGISTRATE";
+}
+<html lang="es">
+<!-- Datos que le pasamos el navegador con la informacion de nuestra pagina web -->
+<head>
+    <meta charset="UTF-8">
+    <title>Taller Mecanico/Registro</title>
+    <script src="https://kit.fontawesome.com/b6b237481f.js" crossorigin="anonymous"></script>
+       
+</head>
+<!-- Representa todo el contenido de nuestra pagina WEB -->
+<body> 
+    
+    <form class="formulario">
+        
+        <h1>Registro de Mecanico</h1>
+        <div class="contenedor">
+
+        <div class="input-contenedor">
+            <i class="fa-solid fa-user icon"></i>
+            <input type="text" placeholder="Nombres y Apellidos">
+
+        </div>   
+        
+        <div class="input-contenedor">
+            <i class="fa-solid fa-envelope icon"></i>
+            <input type="text" placeholder="Correo Electronico">
+
+        </div>  
+
+        <div class="input-contenedor">
+            <i class="fa-regular fa-address-card icon"></i>
+            <input type="text" placeholder="Numero de Documento">
+
+        </div>  
+
+        <div class="input-contenedor">
+            <i class="fa-solid fa-graduation-cap icon"></i>
+            <input type="text" placeholder="Nivel de Estudios">
+
+        </div>           
+        
+        <div class="input-contenedor">
+            <i class="fa-solid fa-phone icon"></i>
+            <input type="text" placeholder="Numero Télefonico">
+
+        </div>  
+        
+
+        <div class="input-contenedor">
+            <i class="fa-solid fa-key icon"></i>
+            <input type="password" placeholder="Contraseña">
+
+        </div>  
+
+        <input type="submit" value="Registrar Usuario" class="btn btn-outline-primary btn-sm">
+        <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
+        <p>¿Ya tienes cuenta?<a class="link" asp-page="/Login/Login"> Iniciar Sesion</a></p>
+
+
+        </div>
+
+    </form>
+    
+</body>
+</html>

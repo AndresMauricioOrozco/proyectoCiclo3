@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Taller.App.Front
+build_property.RootNamespace = Taller.App.Front
+build_property.ProjectDir = C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\Ciclo3\proyectoCiclo3\Taller.App\Taller.App.Front
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/AgendarCita/agendarCita.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbmRhckNpdGFcYWdlbmRhckNpdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/RegisterMechanical/RegisterMechanical.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJNZWNoYW5pY2FsXFJlZ2lzdGVyTWVjaGFuaWNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/RegistrarVehiculo/registrarVehiculo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cmFyVmVoaWN1bG9ccmVnaXN0cmFyVmVoaWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/TablaSolicitudes/tablaSolicitudes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGFTb2xpY2l0dWRlc1x0YWJsYVNvbGljaXR1ZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/Ciclo3/proyectoCiclo3/Taller.App/Taller.App.Front/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hvx31kelq3

@@ -1,0 +1,122 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin-bottom: 60px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin:  0;
+  background: url("https://img.freepik.com/fotos-premium/mecanico-automoviles-asiatico-taller-reparacion-automoviles-revisando-motor-clientes-que-usan-automoviles-servicios-reparacion-mecanico-trabajara-garaje_140555-248.jpg?w=2000");
+  background-size: cover;
+  background-attachment: fixed;
+}
+* { 
+  box-sizing: border-box;
+}
+.contenedor{
+
+  width: 100%;
+  padding: 15px;
+}
+
+.formulario{
+  background: #fff;
+  margin-top: 150px;
+  padding: 3px;
+}
+
+.citas{
+  background: #fff;
+  padding: 3px;
+  margin: auto;
+  margin-top: 120px;
+  width: 800px;
+  border-radius: 3%;
+}
+
+.tabla{
+  background: #fff;
+  padding: 3px;
+  margin: auto;
+  margin-top: 120px;
+  width: auto;
+  border-radius: 3%;
+}
+
+.rvehiculo{
+  background: #fff;
+  padding: 3px;
+  margin: auto;
+  margin-top: 120px;
+  width: auto;
+  border-radius: 3%;
+}
+
+h1{
+  text-align: center;
+  color: #000000;
+  font-size: 40px;
+}
+
+input[type = "text"],
+input[type = "password"]{
+  font-size: 20px;
+  width: 70%;
+  padding: 5px;
+  border: none;
+}
+
+.input-contenedor{
+  margin-bottom: 15px;
+  border: 1px solid #aaa;
+}
+.input-group{
+  margin-bottom: 15px;
+  border: 1px solid #aaa;
+  padding: 4px;
+  width: 100%;
+  font-size: 20px;
+}
+.icon { 
+  min-width: 60px;
+  text-align: center;
+  color: rgb(103, 15, 218);
+}
+.button{
+  border: none;
+  width: 100%;
+  color: white;
+  font-size: 20px;
+  background: #1a2537;
+  padding: 15px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button:hover{
+  background: cadetblue;
+}
+p{
+  text-align: center;
+}
+.link{
+  text-decoration: none;
+  color: #1a2537;
+  font-weight: 600;
+}
+.link:hover{
+  color: cadetblue
+}
+.formulario{
+  margin: auto;
+  width: 500px;
+  margin-top: 150px;
+  border-radius: 5%;
+}
