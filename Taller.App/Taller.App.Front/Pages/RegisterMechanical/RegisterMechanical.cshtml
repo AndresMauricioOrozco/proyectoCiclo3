@@ -37,10 +37,25 @@
 
         </div>  
 
-        <div class="input-contenedor">
+        <div class="input-group">
             <i class="fa-solid fa-graduation-cap icon"></i>
-            <input type="text" placeholder="Nivel de Estudios">
+            <span style="color:gray;">Nivel de Estudio</span>
+            <select class="form-select" style="color:gray;">
+            <option selected >Seleccione</option>
+            <option value="1">Primaria</option>
+            <option value="2">Bachiller</option>
+            <option value="3">Técnico</option>
+            <option value="4">Técnologo</option>
+            <option value="5">Profesional</option>
+            </select>
 
+        </div>
+
+        <div  class="input-group">
+            <i class="fa-solid fa-calendar-days icon"></i>
+            <span style="color: gray;">Fecha de Nacimiento</style></span>
+            <input type="date" style="color:gray;">
+        
         </div>           
         
         <div class="input-contenedor">
@@ -56,9 +71,7 @@
 
         </div>  
 
-        <input type="submit" value="Registrar Usuario" class="btn btn-outline-primary btn-sm">
-        <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
-        <p>¿Ya tienes cuenta?<a class="link" asp-page="/Login/Login"> Iniciar Sesion</a></p>
+        <input type="submit" value="Registrar" class="button">
 
 
         </div>

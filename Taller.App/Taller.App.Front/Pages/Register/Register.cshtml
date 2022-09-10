@@ -30,24 +30,12 @@
             <input type="text" placeholder="Correo Electronico">
 
         </div>  
-
+        
         <div class="input-contenedor">
-            <i class="fa-solid fa-car-side icon"></i>
-            <input type="text" placeholder="Marca del Vehículo">
+            <i class="fa-solid fa-id-card icon"></i>
+            <input type="text" placeholder="ID del Usuario">
 
-        </div>  
-
-        <div class="input-contenedor">
-            <i class="fa-solid fa-car-side icon"></i>
-            <input type="text" placeholder="Modelo del Vehículo">
-
-        </div>  
-
-        <div class="input-contenedor">
-            <i class="fa-solid fa-car-side icon"></i>
-            <input type="text" placeholder="Placa del Vehículo">
-
-        </div>                  
+        </div>   
         
         <div class="input-contenedor">
             <i class="fa-solid fa-phone icon"></i>
@@ -62,7 +50,75 @@
 
         </div>  
 
-        <input type="submit" value="Registrar Usuario" class="btn btn-outline-primary btn-sm">
+        <h2>Registro de Vehículo</h2>
+
+        <div class="input-group">
+            <span>Paca del Vehículo</span>
+            <input type="span" placeholder="ABC123">
+            
+        </div>         
+
+        <div class="input-group">
+        <span>Tipo de Vehículo</span>
+        <select class="form-select">
+        <option selected>Selecione</option>
+        <option value="1">Deportivo</option>
+        <option value="2">Camion</option>
+        <option value="3">Van</option>
+        <option value="4">Pick Up</option>
+        </select>
+        </div>
+
+        <div class="input-group">
+        <span>Marca de Vehículo</span>
+        <select class="form-select">
+        <option selected>Selecione</option>
+        <option value="1">Chervolet</option>
+        <option value="2">Renault</option>
+        <option value="3">Mazda</option>
+        <option value="4">Susuki</option>
+        </select>
+        </div>
+        
+        <div class="input-group">
+        <span>Modelo de Vehículo</span>
+        <select class="form-select">
+        <option selected>Selecione</option>
+        <option value="1">1985</option>
+        <option value="2">1986</option>
+        <option value="3">1987</option>
+        <option value="4">1988</option>
+        <option value="5">1989</option>
+        <option value="6">1990</option>
+        <option value="7">1991</option>
+        <option value="8">1992</option>
+        <option value="9">1993</option>
+        <option value="10">1994</option>
+        <option value="11">1995</option>
+        <option value="12">1996</option>
+        <option value="13">1997</option>
+        <option value="14">1998</option>
+        <option value="15">1999</option>
+        <option value="16">2000</option>
+        </select>
+        </div>
+
+        <div class="input-group">
+        <span>Color del Vehículo</span>
+        <select class="form-select">
+        <option selected>Selecione</option>
+        <option value="1">Negro</option>
+        <option value="2">Rojo</option>
+        <option value="3">Amarillo</option>
+        <option value="4">Azul</option>
+        <option value="5">Verde</option>
+        </select>
+        </div>
+
+
+        
+
+        <input type="submit" value="Registrar" class="button">
         <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
         <p>¿Ya tienes cuenta?<a class="link" asp-page="/Login/Login"> Iniciar Sesion</a></p>
 
@@ -70,6 +126,7 @@
         </div>
 
     </form>
+    
     
 </body>
 </html>
