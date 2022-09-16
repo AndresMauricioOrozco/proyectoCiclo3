@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dicvy\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dicvy\\OneDrive\\Documentos\\B1M4NC0\\PROGRAMING\\PROJECT\\WEB SITES\\taller-mecanico\\Taller.App\\Taller.App.Dominio\\Taller.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Ciclo3\\proyectoCiclo3\\Taller.App\\Taller.App.Dominio\\Taller.App.Dominio.csproj",
       "projectName": "Taller.App.Dominio",
-      "projectPath": "C:\\Users\\dicvy\\OneDrive\\Documentos\\B1M4NC0\\PROGRAMING\\PROJECT\\WEB SITES\\taller-mecanico\\Taller.App\\Taller.App.Dominio\\Taller.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\dicvy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dicvy\\OneDrive\\Documentos\\B1M4NC0\\PROGRAMING\\PROJECT\\WEB SITES\\taller-mecanico\\Taller.App\\Taller.App.Dominio\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Ciclo3\\proyectoCiclo3\\Taller.App\\Taller.App.Dominio\\Taller.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Ciclo3\\proyectoCiclo3\\Taller.App\\Taller.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dicvy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

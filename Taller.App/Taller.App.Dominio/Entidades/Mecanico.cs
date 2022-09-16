@@ -5,12 +5,11 @@ using System.Threading.Tasks;
 
 namespace Taller.App.Dominio
 {
-    public class Mecanico
+    public class Mecanico : Persona
     {
         
-        string Id {get; set}
-        string Nombre {get; set}
-        string Id {get; set}
-        string Id {get; set}
+        string Direccion {get; set;}
+        string NivelEstudio {get; set;}
+
     }
 }

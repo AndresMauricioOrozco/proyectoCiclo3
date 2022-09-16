@@ -19,4 +19,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Taller.App.Dominio\Taller.App.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>
