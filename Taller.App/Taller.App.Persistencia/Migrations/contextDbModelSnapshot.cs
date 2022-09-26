@@ -9,8 +9,8 @@ using Taller.App.Persistencia;
 
 namespace Taller.App.Persistencia.Migrations
 {
-    [DbContext(typeof(contextDb))]
-    partial class contextDbModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ContextDb))]
+    partial class ContextDbModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -20,6 +20,31 @@ namespace Taller.App.Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("Taller.App.Dominio.Notificacion", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+
+                    b.Property<string>("Destinos")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("IdRevision")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Observaciones")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Notificaciones");
+                });
 
             modelBuilder.Entity("Taller.App.Dominio.Persona", b =>
                 {
@@ -46,16 +71,78 @@ namespace Taller.App.Persistencia.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id");
+                    b.HasKey("Id")
+                        .HasName("PrirmaryKey_Id");
 
-                    b.ToTable("Persona");
+                    b.ToTable("Personas");
 
                     b.HasDiscriminator<string>("Discriminator").HasValue("Persona");
+                });
+
+            modelBuilder.Entity("Taller.App.Dominio.Vehiculo", b =>
+                {
+                    b.Property<string>("Id")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("Anio")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Capacidad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Caracteristicas")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Cilindraje")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("IdCliente")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Marca")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Placa")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TipoVehiculo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Vehiculos");
+                });
+
+            modelBuilder.Entity("Taller.App.Dominio.JefeOperaciones", b =>
+                {
+                    b.HasBaseType("Taller.App.Dominio.Persona");
+
+                    b.Property<string>("Cargo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasDiscriminator().HasValue("JefeOperaciones");
                 });
 
             modelBuilder.Entity("Taller.App.Dominio.Mecanico", b =>
                 {
                     b.HasBaseType("Taller.App.Dominio.Persona");
+
+                    b.Property<string>("Direccion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("NivelEstudio")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Mecanico");
                 });
@@ -64,7 +151,27 @@ namespace Taller.App.Persistencia.Migrations
                 {
                     b.HasBaseType("Taller.App.Dominio.Persona");
 
+                    b.Property<string>("Ciudad")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Correo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Direccion")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("Propietario_Direccion");
+
                     b.HasDiscriminator().HasValue("Propietario");
+                });
+
+            modelBuilder.Entity("Taller.App.Dominio.Revision", b =>
+                {
+                    b.HasBaseType("Taller.App.Dominio.Mecanico");
+
+                    b.HasDiscriminator().HasValue("Revision");
                 });
 #pragma warning restore 612, 618
         }

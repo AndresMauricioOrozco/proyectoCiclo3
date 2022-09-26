@@ -4,7 +4,7 @@
 
 namespace Taller.App.Persistencia.Migrations
 {
-    public partial class Inicial2 : Migration
+    public partial class Propietario1 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

@@ -8,8 +8,8 @@ namespace Taller.App.Dominio
     public class Mecanico : Persona
     {
         
-        string Direccion {get; set;}
-        string NivelEstudio {get; set;}
+        public string Direccion {get; set;}
+        public string NivelEstudio {get; set;}
 
     }
 }

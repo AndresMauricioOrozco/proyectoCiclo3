@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Taller.App.Consola/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
           "Microsoft.EntityFrameworkCore.Design": "6.0.9",
           "Taller.App.Dominio": "1.0.0",
           "Taller.App.Persistencia": "1.0.0"
